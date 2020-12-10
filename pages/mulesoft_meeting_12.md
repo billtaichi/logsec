@@ -9,6 +9,6 @@ title: Mulesoft Meeting 12
 ## Mobile app API's
 ##
 ```[C#] 
-console.writeline("stuff");
+
 ```
 ##
